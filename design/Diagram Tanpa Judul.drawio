@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="dTvHOqnzeZH_L5AwAAje">
-    <mxGraphModel dx="1174" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-12" edge="1" parent="1" source="svPtvYF6HSFWqxr9XFZq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);imageBackground=light-dark(#FFFFFF,#FFFFFF);">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="630" as="targetPoint" />
+            <mxPoint x="1190" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-1" parent="1" style="triangle;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);imageBackground=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
@@ -171,7 +171,7 @@
         <mxCell id="svPtvYF6HSFWqxr9XFZq-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Transparansi masih rendah" vertex="1">
           <mxGeometry height="40" width="120" x="700" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="svPtvYF6HSFWqxr9XFZq-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;li data-section-id=&quot;1p5lw0s&quot; data-start=&quot;196&quot; data-end=&quot;224&quot;&gt;Banyak data harus diolah&lt;/li&gt;" vertex="1">
+        <mxCell id="svPtvYF6HSFWqxr9XFZq-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Banyak data harus diolah" vertex="1">
           <mxGeometry height="40" width="120" x="644" y="480" as="geometry" />
         </mxCell>
         <UserObject label="Next.js" link="Next.js" id="svPtvYF6HSFWqxr9XFZq-64">
@@ -193,9 +193,6 @@
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Studi literatur" vertex="1">
           <mxGeometry height="40" width="120" x="544" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="svPtvYF6HSFWqxr9XFZq-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Perankingan pesera didik baru" vertex="1">
-          <mxGeometry height="40" width="120" x="664" y="780" as="geometry" />
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-52" edge="1" parent="1" source="svPtvYF6HSFWqxr9XFZq-73" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -243,10 +240,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PPDB online berbasis web" vertex="1">
-          <mxGeometry height="40" width="120" x="690" y="730" as="geometry" />
+          <mxGeometry height="40" width="120" x="710" y="715.5" as="geometry" />
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistem informasi sekolah" vertex="1">
           <mxGeometry height="40" width="120" x="730" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="svPtvYF6HSFWqxr9XFZq-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Perankingan pesera didik baru" vertex="1">
+          <mxGeometry height="40" width="120" x="700" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
