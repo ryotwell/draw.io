@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="dTvHOqnzeZH_L5AwAAje">
-    <mxGraphModel dx="978" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-12" edge="1" parent="1" source="svPtvYF6HSFWqxr9XFZq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);imageBackground=light-dark(#FFFFFF,#FFFFFF);">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="630" as="targetPoint" />
+            <mxPoint x="1130" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-1" parent="1" style="triangle;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);imageBackground=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
@@ -247,6 +247,12 @@
         </mxCell>
         <mxCell id="svPtvYF6HSFWqxr9XFZq-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Perankingan pesera didik baru" vertex="1">
           <mxGeometry height="40" width="120" x="700" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="rRCPmHmaOHIWB5CjrfUP-1" parent="1" style="shape=or;whiteSpace=wrap;html=1;" value="Hasil Akhir" vertex="1">
+          <mxGeometry height="80" width="60" x="1130" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="rRCPmHmaOHIWB5CjrfUP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Mewujudkan sistem informasi sekolah terintegrasi dengan PPDB online berbasis web menggunakan metode SAW untuk meningkatkan efisiensi dan transparansi proses penerimaan peserta didik baru di SMP Unggulan Hamzanwadi.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="250" x="1090" y="695" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
