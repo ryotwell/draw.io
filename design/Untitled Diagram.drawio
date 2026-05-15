@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="-qX5efyrkEbySYThlBCq">
+    <mxGraphModel dx="951" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6OflcpyQ06avavYtZlI--1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mulai" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Akses Halaman PPDB" vertex="1">
+          <mxGeometry height="60" width="160" x="330" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Isi Form PPDB" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--5" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Unggah Berkas" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Data dan&lt;div&gt;Berkas valid?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="360" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--13" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Calon Siswa&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Melihat&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hasil Seleksi&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="330" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Lulus seleksi?" vertex="1">
+          <mxGeometry height="100" width="100" x="360" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--16" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Selesai" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Proses Daftar Ulang" vertex="1">
+          <mxGeometry height="60" width="160" x="510" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data P&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;endaftar Disimpan&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="330" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Admin Melihat Data Pendaftar" vertex="1">
+          <mxGeometry height="60" width="160" x="330" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Proses Perhitungan Metode SAW" vertex="1">
+          <mxGeometry height="60" width="160" x="334" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="6OflcpyQ06avavYtZlI--22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Admin Melakukan Seleksi" vertex="1">
+          <mxGeometry height="60" width="160" x="330" y="920" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
