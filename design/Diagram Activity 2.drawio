@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="rD-ogeIBLb3lrLs3Vgw4">
-    <mxGraphModel dx="1304" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,12 +9,6 @@
         </mxCell>
         <mxCell id="BFwMIOl_fTZ5KkMz--We-17" parent="BFwMIOl_fTZ5KkMz--We-26" style="swimlane;whiteSpace=wrap;html=1;" value="Calon Siswa Baru" vertex="1">
           <mxGeometry height="1480" width="240" as="geometry" />
-        </mxCell>
-        <mxCell id="w0kQH2tKHtvp39ZsyJaP-32" edge="1" parent="BFwMIOl_fTZ5KkMz--We-17" source="BFwMIOl_fTZ5KkMz--We-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BFwMIOl_fTZ5KkMz--We-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BFwMIOl_fTZ5KkMz--We-28" parent="BFwMIOl_fTZ5KkMz--We-17" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="104.21052631578948" width="120" x="60" y="104.21052631578948" as="geometry" />
         </mxCell>
         <mxCell id="BFwMIOl_fTZ5KkMz--We-32" parent="BFwMIOl_fTZ5KkMz--We-17" style="shape=manualInput;boundedLbl=1;whiteSpace=wrap;html=1;" value="Form Pendaftaran" vertex="1">
           <mxGeometry height="104.21052631578948" width="120" x="60" y="521.0526315789474" as="geometry" />
@@ -30,6 +24,12 @@
         </mxCell>
         <mxCell id="BFwMIOl_fTZ5KkMz--We-69" parent="BFwMIOl_fTZ5KkMz--We-17" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Halaman Informasi PPDB&lt;/span&gt;" vertex="1">
           <mxGeometry height="78.15789473684211" width="120" x="60" y="390.7894736842106" as="geometry" />
+        </mxCell>
+        <mxCell id="IccR1wZIz8i3idPyjx86-3" edge="1" parent="BFwMIOl_fTZ5KkMz--We-17" source="IccR1wZIz8i3idPyjx86-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BFwMIOl_fTZ5KkMz--We-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IccR1wZIz8i3idPyjx86-1" parent="BFwMIOl_fTZ5KkMz--We-17" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="140" as="geometry" />
         </mxCell>
         <mxCell id="BFwMIOl_fTZ5KkMz--We-22" parent="BFwMIOl_fTZ5KkMz--We-26" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1480" width="240" x="240" as="geometry" />
@@ -64,12 +64,6 @@
         </mxCell>
         <mxCell id="BFwMIOl_fTZ5KkMz--We-24" parent="BFwMIOl_fTZ5KkMz--We-26" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;" value="Admin" vertex="1">
           <mxGeometry height="1480" width="240" x="480" as="geometry" />
-        </mxCell>
-        <mxCell id="BFwMIOl_fTZ5KkMz--We-53" edge="1" parent="BFwMIOl_fTZ5KkMz--We-24" source="BFwMIOl_fTZ5KkMz--We-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BFwMIOl_fTZ5KkMz--We-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BFwMIOl_fTZ5KkMz--We-44" parent="BFwMIOl_fTZ5KkMz--We-24" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="104.21052631578948" width="120" x="60" y="104.21052631578948" as="geometry" />
         </mxCell>
         <mxCell id="BFwMIOl_fTZ5KkMz--We-64" edge="1" parent="BFwMIOl_fTZ5KkMz--We-24" source="BFwMIOl_fTZ5KkMz--We-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -112,6 +106,12 @@
         </mxCell>
         <mxCell id="w0kQH2tKHtvp39ZsyJaP-9" parent="BFwMIOl_fTZ5KkMz--We-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Manage Fasilitas" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="IccR1wZIz8i3idPyjx86-4" edge="1" parent="BFwMIOl_fTZ5KkMz--We-24" source="IccR1wZIz8i3idPyjx86-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BFwMIOl_fTZ5KkMz--We-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IccR1wZIz8i3idPyjx86-2" parent="BFwMIOl_fTZ5KkMz--We-24" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="150" as="geometry" />
         </mxCell>
         <mxCell id="BFwMIOl_fTZ5KkMz--We-50" edge="1" parent="BFwMIOl_fTZ5KkMz--We-26" source="BFwMIOl_fTZ5KkMz--We-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="BFwMIOl_fTZ5KkMz--We-34">
           <mxGeometry relative="1" as="geometry" />
