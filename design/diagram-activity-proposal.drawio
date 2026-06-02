@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="rD-ogeIBLb3lrLs3Vgw4">
-    <mxGraphModel dx="1003" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,12 +86,22 @@
         <mxCell id="IccR1wZIz8i3idPyjx86-39" edge="1" parent="BFwMIOl_fTZ5KkMz--We-24" source="IccR1wZIz8i3idPyjx86-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IccR1wZIz8i3idPyjx86-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KqauWkSp-SkoHh5ePXHc-1" connectable="0" parent="IccR1wZIz8i3idPyjx86-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="0.1263" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IccR1wZIz8i3idPyjx86-40" edge="1" parent="BFwMIOl_fTZ5KkMz--We-24" source="IccR1wZIz8i3idPyjx86-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="IccR1wZIz8i3idPyjx86-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="206" y="560" />
               <mxPoint x="206" y="740" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqauWkSp-SkoHh5ePXHc-2" connectable="0" parent="IccR1wZIz8i3idPyjx86-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.8592" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IccR1wZIz8i3idPyjx86-17" parent="BFwMIOl_fTZ5KkMz--We-24" style="rhombus;whiteSpace=wrap;html=1;" value="Lulus?" vertex="1">
